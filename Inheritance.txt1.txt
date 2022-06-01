@@ -1,0 +1,13 @@
+
+
+1.There is need for reuseability of code in some situation.
+
+2. The existing class is called the Base CLass.
+
+3. The new Class which is inherited is called as the derived class.
+
+4. Reuseability is time saving.
+
+5. There are different types of inheritance.
+
+

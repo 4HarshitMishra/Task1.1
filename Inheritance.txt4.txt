@@ -1,0 +1,27 @@
+Single Inheritance
+
+1. A derived  class with only one base class.
+
+
+Multiple Inheritance
+
+1. A derived class with more than one Base class.
+
+
+Hierachical Inheritance
+
+1. Several derived class from a single Base Class.
+
+
+Multi-Level Inheritance
+
+1. Deriving a class from already derived class.
+
+
+Hybrid Inheritance
+
+1. Hybrid Inheritance is a combo of multiple nd  Multi-level inheritance.
+
+2. A class is derived from two classes as in multiple inheritance.
+
+3. However, one of the parent class is not a base class.
